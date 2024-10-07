@@ -3,7 +3,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Akshay-pro-grammer&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/Akshay-pro-grammer/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshay-pro-grammer&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshay-pro-grammer&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical&hide=jupyternotebook" />
 </a>
 
 ## About Me
