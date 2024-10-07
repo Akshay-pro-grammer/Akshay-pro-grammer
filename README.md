@@ -1,4 +1,7 @@
 # Hi there, I'm Akshay Vishwakarma 👋
+<a href="https://leetcode.com/u/i_am_guts/">
+  <img align="center" src="https://leetcard.jacoblin.cool/i_am_guts?theme=nord&font=Inconsolata&ext=heatmap" />
+  </a>
 <a href="https://github-readme-stats.vercel.app/api?username=Akshay-pro-grammer&show_icons=true&theme=radical">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Akshay-pro-grammer&show_icons=true&theme=radical" />
 </a>
@@ -9,9 +12,6 @@
 ## About Me
 - I'm a passionate developer with a love for building robust applications and solving complex problems. My primary stack includes Java and Spring Boot, but I also enjoy working with frontend technologies like HTML, CSS, JavaScript, and Bootstrap.
 - I haven started a hunt for leetcode badges by solving daily questions 
-- <a href="https://leetcode.com/u/i_am_guts/">
-  <img align="center" src="https://leetcard.jacoblin.cool/i_am_guts?theme=nord&font=Inconsolata&ext=heatmap" />
-  </a>
 
 ## Tech Stack
 - Languages : <a href="https://github.com/Akshay-pro-grammer">
