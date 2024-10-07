@@ -10,7 +10,7 @@
 - I'm a passionate developer with a love for building robust applications and solving complex problems. My primary stack includes Java and Spring Boot, but I also enjoy working with frontend technologies like HTML, CSS, JavaScript, and Bootstrap.
 - I haven started a hunt for leetcode badges by solving daily questions 
 - <a href="https://leetcode.com/u/i_am_guts/">
-  <img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
+  <img align="center" src="https://leetcard.jacoblin.cool/i_am_guts?theme=nord&font=Inconsolata&ext=heatmap" />
   </a>
 
 ## Tech Stack
