@@ -1,21 +1,41 @@
-# Hi there, I'm Akshay Vishwakarma 👋
+<h1 align="center">Hi 👋, I'm Akshay Vishwakarma</h1>
+<h3 align="center">I'm a passionate developer with a love for building robust applications and solving complex problems.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay-pro-grammer&label=Profile%20views&color=0e75b6&style=flat" alt="akshay-pro-grammer" /> </p>
+
 <a href="https://leetcode.com/u/i_am_guts/">
-  <img align="center" src="https://leetcard.jacoblin.cool/i_am_guts?theme=nord&font=Inconsolata&ext=heatmap" />
+  <img align="right" src="https://leetcard.jacoblin.cool/i_am_guts?theme=nord&font=Inconsolata" />
   </a>
-<a href="https://github-readme-stats.vercel.app/api?username=Akshay-pro-grammer&show_icons=true&theme=radical">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Akshay-pro-grammer&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/Akshay-pro-grammer">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshay-pro-grammer&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical&hide=jupyternotebook" />
-</a>
 
-## About Me
-- I'm a passionate developer with a love for building robust applications and solving complex problems. My primary stack includes Java and Spring Boot, but I also enjoy working with frontend technologies like HTML, CSS, JavaScript, and Bootstrap.
-- I haven started a hunt for leetcode badges by solving daily questions 
+- 🔭 I’m currently working on **Vitalizer**
 
-## Tech Stack
+- 🌱 I’m currently learning **GO language, NGINX**
+
+- 💬 Ask me about **SpringBoot**
+
+- 📫 How to reach me <p> <a href="akshayvish432@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://www.linkedin.com/in/akshay-vishwakarma-96b000229"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
+
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1l633nFSmyG3KjxbiJk3Xi7WYeEdWuEb7/view?usp=drive_link">Resume</a>
+- ⚡ Fun fact **I am Cheetah beacuse i sit with my laptop for continous 8 hours**
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-pro-grammer&" alt="akshay-pro-grammer" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay-pro-grammer&show_icons=true&locale=en&layout=compact" alt="akshay-pro-grammer" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshay-pro-grammer&show_icons=true&locale=en" alt="akshay-pro-grammer" /></p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/akshay_vishwakarma_331d0b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="akshay_vishwakarma_331d0b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akshay-vishwakarma-96b000229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay-vishwakarma-96b000229" height="30" width="40" /></a>
+<a href="https://instagram.com/kindagotalitttleangry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kindagotalitttleangry" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/akshayvish432" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akshayvish432" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/akshayvish432" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="akshayvish432" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/i_am_guts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="i_am_guts" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/akshayvnnel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akshayvnnel" height="30" width="40" /></a>
+</p>
+  <h3 align="left">Languages and Tools:</h3>
+  
 - Languages : <a href="https://github.com/Akshay-pro-grammer">
   <img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img align="center" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>
   <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img align="center" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
@@ -23,12 +43,12 @@
   </a>
 - Backend : <a href="https://github.com/Akshay-pro-grammer">
   <img align="center" src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
   <img align="center" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white"/>
   <img align="center" src="https://img.shields.io/badge/Spring%20Security-6DB33F.svg?style=for-the-badge&logo=Spring-Security&logoColor=white"/>
   <img align="center" src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white"/>
   <img align="center" src="https://img.shields.io/badge/Apache%20Maven-C71A36.svg?style=for-the-badge&logo=Apache-Maven&logoColor=white"/>
   <img align="center" src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white"/>
-  <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>
   </a>
 - Frontend : <a href="https://github.com/Akshay-pro-grammer">
   <img align="center" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
@@ -64,6 +84,7 @@
   <img align="center" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
   <img align="center" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
   </a>
+  
 ## Projects
 
 ### Vitalizer Medical App 🌡️
@@ -86,15 +107,4 @@
 - **Description:** A project completed during my internship, where I used web scraping techniques to gather valuable data from online platforms. The project involved parsing HTML, extracting specific information, and storing it for analysis, demonstrating my ability to work with unstructured data.
 - **Technologies:** Cheerio, BeautifulSoup, CSV, JSON.
 
-## Skills & Interests
-- Problem Solving: I enjoy tackling challenging problems and coming up with efficient solutions.
-- Web Development: Creating responsive and interactive web applications is one of my key strengths.
-- Learning: Continuously improving my skills and keeping up with the latest industry trends.
-## Get in Touch
-- <a href="akshayvish432@gmail.com">
-  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-- <a href="https://www.linkedin.com/in/akshay-vishwakarma-96b000229">
-  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-Feel free to check out my repositories and get in touch if you want to collaborate or discuss anything tech-related!
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshay-pro-grammer" alt="akshay-pro-grammer" /></a> </p>
