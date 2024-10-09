@@ -18,7 +18,7 @@
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1l633nFSmyG3KjxbiJk3Xi7WYeEdWuEb7/view?usp=drive_link">Resume</a>
 - ⚡ Fun fact **I am Cheetah beacuse i sit with my laptop for continous 8 hours**
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-pro-grammer&" alt="akshay-pro-grammer" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay-pro-grammer&show_icons=true&locale=en&layout=compact" alt="akshay-pro-grammer" /></p>
+<p><img align="left" height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay-pro-grammer&show_icons=true&locale=en&layout=compact" alt="akshay-pro-grammer" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshay-pro-grammer&show_icons=true&locale=en" alt="akshay-pro-grammer" /></p>
 
 <h3 align="left">Connect with me:</h3>
