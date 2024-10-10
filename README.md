@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akshay Vishwakarma</h1>
 <h3 align="center">I'm a passionate developer with a love for building robust applications and solving complex problems.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay-pro-grammer&label=Profile%20views&color=0e75b6&style=flat" alt="akshay-pro-grammer" /> </p>
+  <h2 align="left">About me</h2>
+  <h3 align="right">Leetcode stats</h3>
 
 <a href="https://leetcode.com/u/i_am_guts/">
   <img align="right" src="https://leetcard.jacoblin.cool/i_am_guts?theme=nord&font=Inconsolata" />
-  </a>
+</a>
 
 - 🔭 I’m currently working on **Vitalizer**
 
@@ -17,6 +17,9 @@
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1l633nFSmyG3KjxbiJk3Xi7WYeEdWuEb7/view?usp=drive_link">Resume</a>
 - ⚡ Fun fact **I am Cheetah beacuse i sit with my laptop for continous 8 hours**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay-pro-grammer&label=Profile%20views&color=0e75b6&style=flat" alt="akshay-pro-grammer" /> </p>
+<h2>Github stats</h2>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-pro-grammer&" alt="akshay-pro-grammer" /></p>
 <p><img align="left" height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay-pro-grammer&show_icons=true&locale=en&layout=compact" alt="akshay-pro-grammer" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshay-pro-grammer&show_icons=true&locale=en" alt="akshay-pro-grammer" /></p>
