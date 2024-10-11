@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **SpringBoot**
 
-- 📫 How to reach me <p> <a href="akshayvish432@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://www.linkedin.com/in/akshay-vishwakarma-96b000229"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
+- 📫 How to reach me <p> <a href="mailto:akshayvish432@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://www.linkedin.com/in/akshay-vishwakarma-96b000229"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1l633nFSmyG3KjxbiJk3Xi7WYeEdWuEb7/view?usp=drive_link">Resume</a>
 - ⚡ Fun fact **I am Cheetah beacuse i sit with my laptop for continous 8 hours**
