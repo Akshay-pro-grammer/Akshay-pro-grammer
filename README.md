@@ -4,7 +4,7 @@
   <h3 align="right">Leetcode stats</h3>
 
 <a href="https://leetcode.com/u/i_am_guts/">
-  <img align="right" src="https://leetcard.jacoblin.cool/i_am_guts?theme=nord&font=Inconsolata" />
+  <img align="right" src="https://leetcard.jacoblin.cool/i_am_guts?theme=radical&font=Hammersmith%20One" />
 </a>
 
 - 🔭 I’m currently working on **Vitalizer**
