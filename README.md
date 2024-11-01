@@ -113,5 +113,5 @@
 ### Web Scraping Project 🕸️
 - **Description:** A project completed during my internship, where I used web scraping techniques to gather valuable data from online platforms. The project involved parsing HTML, extracting specific information, and storing it for analysis, demonstrating my ability to work with unstructured data.
 - **Technologies:** Cheerio, BeautifulSoup, CSV, JSON.
-
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=i_am_guts&animated=true" alt="LeetCode Badges"/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshay-pro-grammer" alt="akshay-pro-grammer" /></a> </p>
