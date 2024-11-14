@@ -20,7 +20,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay-pro-grammer&label=Profile%20views&color=0e75b6&style=flat" alt="akshay-pro-grammer" /> </p>
 <h2>Github stats</h2>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-pro-grammer&" alt="akshay-pro-grammer" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-pro-grammer" alt="akshay-pro-grammer" /></p>
 <p><img align="left" height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay-pro-grammer&show_icons=true&locale=en&layout=compact" alt="akshay-pro-grammer" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshay-pro-grammer&show_icons=true&locale=en" alt="akshay-pro-grammer" /></p>
 
