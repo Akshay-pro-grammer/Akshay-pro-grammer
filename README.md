@@ -38,7 +38,7 @@
   
 - Languages : <a href="https://github.com/Akshay-pro-grammer">
   <img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img align="center" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img align="center" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img align="center" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>
   <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -47,7 +47,6 @@
   <img align="center" src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white"/>
   <img align="center" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white"/>
   <img align="center" src="https://img.shields.io/badge/Spring%20Security-6DB33F.svg?style=for-the-badge&logo=Spring-Security&logoColor=white"/>
-  <img align="center" src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white"/>
   <img align="center" src="https://img.shields.io/badge/Apache%20Maven-C71A36.svg?style=for-the-badge&logo=Apache-Maven&logoColor=white"/>
   <img align="center" src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white"/>
   </a>
@@ -59,7 +58,6 @@
   <img align="center" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white"/>
   <img align="center" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/>
   <img align="center" src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white"/>
-  <img align="center" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   </a>
 - Database : <a href="https://github.com/Akshay-pro-grammer">
   <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -69,10 +67,6 @@
   </a>
 
 - AI : <a href="https://github.com/Akshay-pro-grammer">
-  <img align="center" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img align="center" src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img align="center" src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img align="center" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
   <img align="center" src="https://img.shields.io/badge/Ollama-000000.svg?style=for-the-badge&logo=Ollama&logoColor=white"/>
   </a>
 - IDE : <a href="https://github.com/Akshay-pro-grammer">
@@ -90,9 +84,16 @@
   
 ## Projects
 
-### Vitalizer Medical App 🌡️
-- **Description:** Developed a comprehensive health assistance application using Java and Spring Boot. The app integrates with a medical API to allow users to input symptoms and receive relevant diagnoses and treatment suggestions. The application also provides mental wellness support through a chat feature, offering holistic health assistance.
-- **Technologies:** Java, Spring Boot, API integration, Thymeleaf, Tailwind CSS.
+### VITALIZER - a medical support web application
+- **Engineered** a medical assistance application integrating Api-Medic API to provide symptom-based guidance and a one-click AI-driven diagnosis with red-alert notifications for critical conditions.
+- **Developed** a real-time AI chat system using Google Gemini API for mental health support and DeepSeek R1 with Ollama API, enhancing conversational interactions with optimized prompts.
+- **Designed** a responsive and intuitive UI using Tailwind CSS and Flowbite, improving user experience with structured symptom navigation and AI-powered explanations of specific body part symptoms.
+- **Optimized** API key caching and authentication processes by implementing a ConcurrentHashMap, and integrated secure login using Google OAuth and traditional email-based authentication.
+### JOBMIGO -  a job portal
+- **Developed** a full-stack job portal using React, Spring Boot, and MongoDB, implementing JWT authentication, protected role-based routes, and OTP-based email authentication to enhance security and user access control.
+- **Engineered** a dynamic job search and application system, enabling keyword-based search, advanced filtering, real-time job alerts, and application tracking, improving user experience and employer interactions.
+- **Designed** an intuitive user and employer dashboard using Tailwind, and, integrating resume management, saved jobs, company profiles, and in-platform messaging for seamless job discovery and hiring.
+- **Implemented** a scalable notification system with email alerts for job postings and application status updates, while leveraging Git for version control to ensure smooth development and collaboration.
 
 ### Weather Application 🌦️
 - **Description:** Created a weather application that fetches and displays real-time weather data by connecting to a weather API. Users can input their location to receive updates on temperature, humidity, and forecast. The application is designed to be responsive and user-friendly.
