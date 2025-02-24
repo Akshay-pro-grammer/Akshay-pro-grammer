@@ -15,7 +15,7 @@
 
 - 📫 How to reach me <p> <a href="mailto:akshayvish432@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://www.linkedin.com/in/akshay-vishwakarma-96b000229"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
 
-- 📄 Know about my experiences <a href="">Resume</a>
+- 📄 Know about my experiences <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0">Resume</a>
 - ⚡ Fun fact **I am Cheetah beacuse i sit with my laptop for continous 8 hours**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay-pro-grammer&label=Profile%20views&color=0e75b6&style=flat" alt="akshay-pro-grammer" /> </p>
