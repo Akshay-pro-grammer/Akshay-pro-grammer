@@ -94,6 +94,12 @@
 - **Designed** an intuitive user and employer dashboard using Tailwind, and, integrating resume management, saved jobs, company profiles, and in-platform messaging for seamless job discovery and hiring.
 - **Implemented** a scalable notification system with email alerts for job postings and application status updates, while leveraging Git for version control to ensure smooth development and collaboration.
 
+### **TextMaster: AI-Powered Text Enhancement**  
+- **Enhances** text with **Grammar Correction, Sentiment Analysis, and Paraphrasing**.  
+- **Detects** language, **identifies** spelling errors, and **extracts** keywords.  
+- **Generates** structured **PDF reports** for easy insights.  
+- **Built** with **Flask, React (Vite), MongoDB, NLTK, and Tailwind CSS** for performance and scalability.
+
 ### Weather Application 🌦️
 - **Description:** Created a weather application that fetches and displays real-time weather data by connecting to a weather API. Users can input their location to receive updates on temperature, humidity, and forecast. The application is designed to be responsive and user-friendly.
 - **Technologies:** Java, Spring Boot, Weather API, Thymeleaf, Bootstrap.
